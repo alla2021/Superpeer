@@ -3,6 +3,7 @@
 https://alla2021.github.io/Superpeer/
 
 This is a landing page template built with pure JavaScript and Tailwind CSS. It's designed to be lightweight, customizable, and easy to use for showcasing your product, service, or business.
+![Superpeer](https://user-images.githubusercontent.com/75502074/234059233-e2281269-9f75-404b-b58e-5c86267a357a.png)
 
 # Features
 Responsive layout that works on all devices and screen sizes.
